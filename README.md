@@ -69,7 +69,7 @@ The project follows a client-server architecture:
 
 2.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/mateuszwalo/open_ai_hackathon_atlas
+    git clone https://github.com/ipetrom/open_ai_hackathon_atlas
     cd <repository-directory>
     ```
 
