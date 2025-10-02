@@ -1,4 +1,4 @@
-_the project was created in cooperation with Mateusz Walo, Patryk Marek, Maks Koziel and Igor Rybiński as part of OpenAI Hackathon in April 2025_
+_the project was created in cooperation with Mateusz Walo, Patryk Marek, Maks Koziel and Igor Rybiński as part of OpenAI Hackathon, representing the Atlas Scientific Circle, in April 2025_
 
 
 # Sentio Platform: Personalized Psychological Support Agent (Hackathon Project)
